@@ -89,7 +89,7 @@ Things I learned:
   
 #
 
-### Project 7 - Automaker Robot Design
+### Project 7 (Final) - Automaker Robot Design
 
 <p align="center">
 <img align="center" width="850" height="500" src="https://github.com/Rdbrennan/3D-Print-and-Design/blob/master/Automaker%20Monkey%20Design/Screen%20Shot%202018-09-20%20at%2012.19.41%20AM.png">
