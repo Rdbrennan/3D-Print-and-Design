@@ -13,9 +13,9 @@ Goal: To learn core browser programming with flexbox, media queries, javascript 
 
 Things I learned:
 
-  ● 
+  ● The underlying architecture to build 3D objects
   
-  ● 
+  ● How to properly fill the object and leave no "gaps" for printing
   
 #
 
@@ -27,9 +27,7 @@ Things I learned:
   
 Things I learned:
 
-  ● 
-  
-  ● 
+  ● How to solve printing challenges (The spoon in particular would have too much support under the curve where the user would hold it, so I decided to print the spoon upside down)
   
 #
 
@@ -41,9 +39,7 @@ Things I learned:
   
 Things I learned:
 
-  ● 
-  
-  ● 
+  ● The challenge with the coffee mug was that the handle sticking out needed to be close enough to where it did not need support all the way from the bottom of the printing plate, but also that there was a big enough gap that a person could hold it like a regular coffee mug. It took many iterations but the it came out succesfully. 
   
 #
 
@@ -55,9 +51,7 @@ Things I learned:
   
 Things I learned:
 
-  ● 
-  
-  ● 
+  ● How to manipulate text and bend it to the object at hand
   
 #
 
@@ -69,7 +63,7 @@ Things I learned:
   
 Things I learned:
 
-  ● 
+  ● To take a photo and render it onto blender then trace over the object
   
   ● 
   
