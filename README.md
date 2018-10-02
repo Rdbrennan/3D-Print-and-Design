@@ -63,9 +63,9 @@ Things I learned:
   
 Things I learned:
 
-  ● To take a photo and render it onto blender then trace over the object
+  ● To take a photo and render it onto blende
   
-  ● 
+  ● Trace over an object that is rendered and turn into a 3D object
   
 #
 
@@ -77,9 +77,9 @@ Things I learned:
   
 Things I learned:
 
-  ● 
+  ● How to use the Autocad application to take a set of photos to render into a 3D object
   
-  ● 
+  ● To patch up rendered photos and make sure that they are filled in
   
 #
 
@@ -91,8 +91,6 @@ Things I learned:
   
 Things I learned:
 
-  ● 
-  
-  ● 
+  ● The challenge with the final design was to have a moving part that also connected to the rest of the object (I solved this by having two rotatable arms on the robot. I made two spheres, one larger one smaller. I put the smaller sphere inside the larger and left enough space for support. Once the design was printed, I simply wiggled the arm until the support broke inside the larger sphere leaving two rotatable arms).
   
 #
